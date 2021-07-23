@@ -5,6 +5,8 @@
 ## No @medias queries and no Javascript.
 
 
-![Gallery](images/galeria-min.png)
+![Gallery](images/galeria-min-2.jpg)
+
+###### *ceauris*
 
 
