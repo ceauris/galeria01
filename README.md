@@ -1,7 +1,10 @@
 # Responsive Gallery Using HTML and CSS
 
-## Responsive image galleries only with Grid. No @medias queries and no Javascript.
+## Responsive image galleries only with Grid. 
+
+## No @medias queries and no Javascript.
 
 
-![Gallery](images/galeria.png)
+![Gallery](images/galeria-min.png)
+
 
